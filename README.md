@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## kakaocloudshool-in-jeju / 부트캠프
+## 한줄소개
 안녕하세요! 개발자 lily 입니다. 😄 열심히 노력하는 주니어 개발자가 되도록 하겠습니다. 🥰
 <br />
 <br />
